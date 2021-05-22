@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+    margin-bottom: 10%;
+}
+
+.container h1 {
+  background-color: #FF7F50;
+  text-align: center;
+  color: black;
+  letter-spacing: 2px;
+  font-weight: 1000;
+  padding: 15px 5px;
+  width: 100%;
+}
+
+.container p{
+    margin-top: 2%;
+    font-size: 22px;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}
+
+.btn {
+  background-color: #555;
+  margin-top: 5px;
+  border: none;
+  text-align: center;
+  width: 160px;
+  height: 40px;
+  border-radius: 5px;
+  letter-spacing: 2px;
+}
